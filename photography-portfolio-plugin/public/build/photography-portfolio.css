@@ -1,4 +1,5 @@
 .PP_Wrapper--default * {
+  line-height: 2;
   box-sizing: border-box;
 }
 .PP_Wrapper--default figure {
@@ -25,6 +26,7 @@
   display: block;
   height: auto;
   max-width: 100%;
+  margin: auto;
 }
 .PP_Masonry {
   margin-left: -10px;
