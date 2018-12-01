@@ -1,8 +1,5 @@
-p {
-  line-height: 2 !important;
-}
-
 .PP_Wrapper--default * {
+  padding: 1em 0 1em 0;
   line-height: 1.5;
   box-sizing: border-box;
 }
