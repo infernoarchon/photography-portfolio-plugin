@@ -1,5 +1,8 @@
+.PP_Description__content PP_Wrapper--default {
+  padding: 0.5em 0 0.5em 0;
+}
+
 .PP_Wrapper--default * {
-  padding: 1em 0 1em 0;
   line-height: 1.5;
   box-sizing: border-box;
 }
