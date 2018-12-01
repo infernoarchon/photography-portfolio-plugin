@@ -173,6 +173,10 @@
 /*
 *   Hover State
 */
+.PP_Entry__header {
+  opacity: 0;
+}
+
 .PP_Card--hoverable:hover .PP_Entry__header {
   z-index: 50;
   -webkit-transform: translateY(-3rem);
@@ -280,7 +284,7 @@
   content: ' ';
   display: block;
   position: absolute;
-  pionter-events: none;
+  pointer-events: none;
   cursor: pointer;
 }
 .PP_Gallery__item--video:before {
