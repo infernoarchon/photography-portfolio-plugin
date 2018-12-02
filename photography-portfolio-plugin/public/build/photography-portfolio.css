@@ -253,6 +253,11 @@
   margin-left: auto;
   margin-right: auto;
 }
+
+.PP_Description a {
+  color: #0275d8 !important;
+}
+
 .PP_Description__title,
 .PP_Description__subtitle {
   text-align: center;
