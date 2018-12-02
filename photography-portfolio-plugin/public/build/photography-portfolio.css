@@ -1,5 +1,8 @@
 .PP_Description__content p {
   padding: 0.5em 0 0.5em 0;
+}
+
+.PP_Description__content a {
   word-break: break-all;
 }
 
