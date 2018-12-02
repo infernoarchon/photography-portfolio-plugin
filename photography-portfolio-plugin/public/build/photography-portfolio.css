@@ -1,5 +1,6 @@
 .PP_Description__content p {
   padding: 0.5em 0 0.5em 0;
+  word-break: break-all;
 }
 
 .PP_Wrapper--default * {
