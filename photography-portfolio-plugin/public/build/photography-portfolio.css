@@ -11,19 +11,19 @@
   padding: 0;
 }
 .PP_Wrapper {
-  max-width: 1600px;
+  max-width: 90%;
   min-height: 75vh;
   clear: both;
   margin-left: auto;
   margin-right: auto;
-  width: 96%;
+  width: 90%;
 /**
 		Some themes don't handle images properly
 	 */
 }
 @media screen and (max-width: 1599px) {
   .PP_Wrapper {
-    max-width: calc(96vw - 20px);
+    max-width: 90%;
   }
 }
 .PP_Wrapper img {
