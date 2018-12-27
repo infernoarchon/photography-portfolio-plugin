@@ -252,8 +252,8 @@
   }
 }
 .PP_Description {
-  width: 75%;
-  max-width: 681px;
+  width: 95%;
+  max-width: 1024px;
   margin-left: auto;
   margin-right: auto;
 }
@@ -325,7 +325,7 @@
   color: #fff;
 }
 .PP_Protected {
-  max-width: 681px;
+  max-width: 1024px;
   margin: 2rem auto;
 }
 .PP_Protected__title {
