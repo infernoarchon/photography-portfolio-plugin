@@ -267,6 +267,8 @@
 .PP_Description__title,
 .PP_Description__subtitle {
   text-align: center;
+  font-size: 2rem; 
+  font-weight: 700;
   margin-bottom: 1.4rem;
 }
 .PP_Description__subtitle {
