@@ -108,6 +108,7 @@
   opacity: 0;
   color: #fff;
   padding: 0;
+  font-weight: 500;
 }
 .PP_Card .PP_Entry__subtitle {
   font-size: 1rem;
