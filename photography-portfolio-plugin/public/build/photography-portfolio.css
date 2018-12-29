@@ -62,7 +62,7 @@
   .PP_Masonry__sizer,
   .PP_Masonry__item {
     width: 100%;
-    max-width: 640px;
+    max-width: 90%;
     margin-left: auto;
     margin-right: auto;
   }
