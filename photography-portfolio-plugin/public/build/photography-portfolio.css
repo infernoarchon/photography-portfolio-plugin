@@ -124,6 +124,12 @@
   bottom: 1rem;
   text-transform: uppercase;
 }
+.PP_Description {
+  width: 95%;
+  max-width: 90%;
+  margin-left: auto;
+  margin-right: auto;
+}
 /*
 	*  Hovercard Layout
 	*/
