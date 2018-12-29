@@ -79,7 +79,7 @@
 @media screen and (max-width: 640px) {
   .PP_Masonry__item {
     border-width: 0px;
-    margin-bottom: 10px;
+    margin-bottom: 10px !important;
   }
 }
 .PP_Masonry__header {
