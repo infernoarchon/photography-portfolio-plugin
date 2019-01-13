@@ -9,8 +9,12 @@
 .PP_Wrapper--default * {
   line-height: 2;
   box-sizing: border-box;
+}
+
+.PP_Single .PP_Wrapper--default {
   margin: auto;
 }
+
 .PP_Wrapper--default figure {
   margin: 0;
   padding: 0;
