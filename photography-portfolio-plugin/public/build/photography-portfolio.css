@@ -15,20 +15,15 @@
   padding: 0;
 }
 .PP_Wrapper {
-  max-width: 90%;
   min-height: 75vh;
   clear: both;
   margin-left: auto;
   margin-right: auto;
-  width: 90%;
 /**
 		Some themes don't handle images properly
 	 */
 }
 @media screen and (max-width: 1599px) {
-  .PP_Wrapper {
-    max-width: 90%;
-  }
 }
 .PP_Wrapper img {
   display: block;
@@ -125,8 +120,6 @@
   text-transform: uppercase;
 }
 .PP_Description {
-  width: 95%;
-  max-width: 90%;
   margin-left: auto;
   margin-right: auto;
 }
@@ -260,8 +253,6 @@
   }
 }
 .PP_Description {
-  width: 95%;
-  max-width: 768px;
   margin-left: auto;
   margin-right: auto;
 }
