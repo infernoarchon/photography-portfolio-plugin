@@ -9,6 +9,7 @@
 .PP_Wrapper--default * {
   line-height: 2;
   box-sizing: border-box;
+  margin: auto;
 }
 .PP_Wrapper--default figure {
   margin: 0;
