@@ -22,6 +22,7 @@
 		<?php if ( get_the_content() ): ?>
 			<div class="PP_Description__content">
 				<?php the_content(); ?>
+				<?php echo get_next_posts_link(); ?>
 			</div> <!-- .PP_Description__content -->
 		<?php endif; ?>
 	</div> <!-- .PP_Description__inner -->
