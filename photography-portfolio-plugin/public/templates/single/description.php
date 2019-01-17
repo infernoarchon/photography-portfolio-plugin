@@ -25,14 +25,14 @@
 				<div class="post-pag-wrap">
 				<div class="post-pag-container next">
 		<?php next_post_link('
-			<span>Next</span>
+			<span>Previous</span>
 			<h3>%link</h3>
 			', '%title', false);
 		?>
 	</div>
 	<div class="post-pag-container prev">
 		<?php previous_post_link('
-			<span>Previous</span>
+			<span>Next</span>
 			<h3>%link</h3>
 			', '%title', false);
 		?>
