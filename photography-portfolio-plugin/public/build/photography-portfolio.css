@@ -24,8 +24,9 @@
 		Some themes don't handle images properly
 	 */
 }
+
 @media screen and (max-width: 1599px) {
-}
+
 .PP_Wrapper img {
   display: block;
   height: auto;
@@ -48,6 +49,7 @@
   outline: 0;
   width: 33.333%;
 }
+}
 @media screen and (max-width: 1024px) {
   .PP_Masonry__sizer,
   .PP_Masonry__item {
@@ -58,7 +60,7 @@
   .PP_Masonry__sizer,
   .PP_Masonry__item {
     width: 100%;
-    max-width: 90%;
+    /* max-width: 90%; */
     margin-left: auto;
     margin-right: auto;
   }
@@ -326,15 +328,15 @@
 .pswp .PP_Caption__desc {
   color: #fff;
 }
-.PP_Protected {
+/* .PP_Protected {
   max-width: 768px;
   margin: 2rem auto;
-}
+} */
 .PP_Protected__title {
   margin-bottom: 1rem;
 }
 .PP_Single_Column {
-  max-width: 1200px;
+  /* max-width: 1200px; */
   margin-left: auto;
   margin-right: auto;
 }
