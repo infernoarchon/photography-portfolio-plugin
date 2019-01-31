@@ -60,7 +60,7 @@
   .PP_Masonry__sizer,
   .PP_Masonry__item {
     width: 100%;
-    /* max-width: 90%; */
+    max-width: 90%;
     margin-left: auto;
     margin-right: auto;
   }
@@ -328,10 +328,10 @@
 .pswp .PP_Caption__desc {
   color: #fff;
 }
-/* .PP_Protected {
+.PP_Protected {
   max-width: 768px;
   margin: 2rem auto;
-} */
+}
 .PP_Protected__title {
   margin-bottom: 1rem;
 }
