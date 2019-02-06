@@ -5,7 +5,7 @@
  * @modified 1.0.0
  */
 ?>
-
+[smartslider3 slider=15]
 <?php while ( have_posts() ) : the_post(); ?>
 
 	<?php if ( post_password_required() ): ?>
