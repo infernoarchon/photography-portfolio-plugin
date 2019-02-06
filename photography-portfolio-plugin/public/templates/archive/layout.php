@@ -7,7 +7,10 @@
 ?>
 
 <?php phort_get_template( 'archive/description' ); ?>
-
+<?php
+$content = get_the_content();
+print $content;
+?>
 <div <?php phort_class( 'PP_Archive_Container' ); ?>>
 
 	<?php do_action( 'phort/archive/loop/start' ); ?>
