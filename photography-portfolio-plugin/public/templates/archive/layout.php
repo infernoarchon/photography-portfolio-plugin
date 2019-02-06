@@ -9,10 +9,7 @@
 <?php phort_get_template( 'archive/description' ); ?>
 
 <div <?php phort_class( 'PP_Archive_Container' ); ?>>
-<?php
-$content = get_the_content();
-print $content;
-?>
+
 	<?php do_action( 'phort/archive/loop/start' ); ?>
 
 	<?php while ( have_posts() ) : the_post(); ?>
